@@ -1,5 +1,5 @@
 # Hyper-DSNet 
-## -- Source Codes and Datasets for Hyperspectral Pansharpening
+## -> Source Codes and Datasets for Hyperspectral Pansharpening -> Deep Learing
 
 * **Homepage:** https://liangjiandeng.github.io/ 
 * Code for the paper: "A Deep-Shallow Fusion Network with Multi-Detail Extractor and Spectral Attention for Hyperspectral Pansharpening, IEEE JSTARS, 2022"
