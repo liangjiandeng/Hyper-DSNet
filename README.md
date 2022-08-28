@@ -19,7 +19,7 @@ Please cite the related paper:
   volume={},
   number={},
   pages={},
-  doi={}
+  doi={10.1109/JSTARS.2022.3202866}
 }
 ```
 
