@@ -23,6 +23,8 @@ Please cite the related paper:
 }
 ```
 
+
+
 ## Dependencies and Installation
 
 * Python 3.8 (Recommend to use [Anaconda](https://www.anaconda.com/))
@@ -48,6 +50,7 @@ Please cite the related paper:
 * model.py: The whole model of our Hyper-DSNet.
 * EdgeDetection.py: The preprocessing part of each operator extracting details.
 * test.py: The main testing function of our Hyper-DSNet.
+* Q_sam_ergas: Function to calculate ERGAS and SAM in python.
 
 
 
@@ -58,6 +61,8 @@ Please cite the related paper:
 3. At the same time, you also need to set the path where the model and log are saved.
 4. Then you can start training, the code will automatically save the trained model in .pth format.
 5. As for testing, you also need to set the path to open and load the data and trained .pth file, and get the test result in .mat format.
+
+
 
 
 ## Method
