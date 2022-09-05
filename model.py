@@ -107,7 +107,7 @@ class Block3(nn.Module):
 
 class Hyper_DSNet(nn.Module):
     def __init__(self):
-        super(MYNet, self).__init__()
+        super(Hyper_DSNet, self).__init__()
 
         self.block2 = Block2()
         self.block3 = Block3()
