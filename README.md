@@ -1,5 +1,5 @@
 # Hyper-DSNet 
-## -> Source Codes and Datasets for Hyperspectral Pansharpening in Deep Learning
+## Source Codes and Datasets for Hyperspectral Pansharpening in Deep Learning
 
 
 * **Homepage:** https://liangjiandeng.github.io/ 
