@@ -2,7 +2,7 @@
 ## Source Codes and Datasets for Hyperspectral Pansharpening in Deep Learning
 
 
-* **Homepage:** https://liangjiandeng.github.io/ 
+* **Homepage:** [Liang-Jian Deng](https://liangjiandeng.github.io/) and [Yu-Wei Zhuo](https://pluto-wei.github.io/)
 * Code for the paper: "A Deep-Shallow Fusion Network with Multi-Detail Extractor and Spectral Attention for Hyperspectral Pansharpening, IEEE JSTARS, 2022"
 
 
