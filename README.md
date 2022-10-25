@@ -3,7 +3,7 @@
 
 
 * **Homepage:** [Liang-Jian Deng](https://liangjiandeng.github.io/) and [Yu-Wei Zhuo](https://pluto-wei.github.io/)
-* Code for the paper: "A Deep-Shallow Fusion Network with Multi-Detail Extractor and Spectral Attention for Hyperspectral Pansharpening, IEEE JSTARS, 2022"
+* Code for the paper: "A Deep-Shallow Fusion Network with Multi-Detail Extractor and Spectral Attention for Hyperspectral Pansharpening, IEEE JSTARS, 2022" [[paper](https://liangjiandeng.github.io/papers/2022/zhuo-jstars2022.pdf)]
 
 
 
